@@ -3,6 +3,8 @@
 
 Made for team 1333 for the year 2022-2023, created by JJfriends (some random 9th grader)
 
+BTW You can't use these scripts during rounds bc that's cheating and the cyber police will be after your ass
+
 These scripts do most things like:
 - Adapter settings
 - Auditing
